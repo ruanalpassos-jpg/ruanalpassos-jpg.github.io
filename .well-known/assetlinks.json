@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ruanalpassos_jpg.twa",
+        "sha256_cert_fingerprints": ["F6:27:84:EE:5E:37:89:D8:12:49:E2:B6:AE:87:67:B0:A4:0E:54:BF:65:10:BE:81:B0:C1:F5:0C:2F:CF:F6:78"]
+      }
+    }]
